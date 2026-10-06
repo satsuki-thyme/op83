@@ -1,0 +1,94 @@
+{
+    "highlight.regexes": {
+        "": {
+            "comment": "物事",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #eea231"
+                }
+            ]
+        },
+        "": {
+            "comment": "場所",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #eea231"
+                }
+            ]
+        },
+        "": {
+            "comment": "サブキャラクター",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #c9b92d"
+                }
+            ]
+        },
+        "(アリス)": {
+            "comment": "メインキャラクター",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #66eeee"
+                }
+            ]
+        },
+        "(レオナ)": {
+            "comment": "メインキャラクター",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #4488ff"
+                }
+            ]
+        },
+        "(ミリア)": {
+            "comment": "メインキャラクター",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #ff9944"
+                }
+            ]
+        },
+        "(ローズ)": {
+            "comment": "アンタゴニスト",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #ee4444"
+                }
+            ]
+        },
+        "(エリー)": {
+            "comment": "アンタゴニスト",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #ec9fff"
+                }
+            ]
+        },
+        "(フェイ)": {
+            "comment": "アンタゴニスト",
+            "filterLanguageRegex": "text|markdown|yaml",
+            "decorations": [
+                {
+                    "textDecoration": "1px underline #ffab74"
+                }
+            ]
+        },
+        "(alice|leona|myria|rose-|erie-|fei--)": {
+            "filterLanguageRegex": "yaml",
+            "decorations": [
+                {
+                    "color": "#c7c2b7"
+                }
+            ]
+        }
+    }
+
+}
