@@ -27,3 +27,4 @@
 ### 思考ノート
 
 - thinking-notes/thi-001.md: コンセプト決定
+- thinking-notes/thi-002.md: ハガレンの回避

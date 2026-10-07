@@ -14,6 +14,7 @@ op83
 
 ## task
 
+- [x] ハガレン状態の回避 
 
 ## reference
 
