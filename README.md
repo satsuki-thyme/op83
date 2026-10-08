@@ -24,9 +24,10 @@
 
 ### アイデアノート
 
-- idea-notes/ide-001.md: コンセプト決定
+- idea-notes/ide-001.md: コンセプト
 
 ### 思考ノート
 
-- thinking-notes/thi-001.md: コンセプト決定
+- thinking-notes/thi-001.md: コンセプト
 - thinking-notes/thi-002.md: ハガレンの回避
+- thinking-notes/thi-003.md: コンセプト
