@@ -1,21 +1,20 @@
-# management
-
-op83
-
-## AI usage
-
-- 基本: 作品制作の思考過程に寄与する参考情報の取得
-- カクヨム: AI補助利用
-- 小説家になろう: AI補助的利用
+# management op83
 
 ## memo
 
 - 普通を描いてから主人公の凄さを見せつける
 
+## handover
+
+- date: 2026-10-25
+- コンセプト再考 ;thi-006.md; ミニマルな仕掛け、方向性でプロットなしの制作を実現する
+
 ## task
 
-- [n] コンセプト ;thi-003; 
-- [x] ハガレン状態の回避 
+- [n] コンセプト再考 ;thi-006.md; 
+- [x] 企画と作り始め ;thi-005.md;
+- [x] コンセプト ;thi-003.md;
+- [x] ハガレン状態の回避
 
 ## reference
 
@@ -53,3 +52,10 @@ op83
   - 01/plot/episode/structure/ (plot) - not yet started
 - text
   - 01/text/ - not yet started
+
+## AI usage
+
+- 基本: 作品制作の思考過程に寄与する参考情報の取得
+- カクヨム: AI補助利用
+- 小説家になろう: AI補助的利用
+
