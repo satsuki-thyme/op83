@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1700" height="1140" viewBox="0 0 1700 1140" role="img" aria-labelledby="title desc">
+<title id="title">双丘の王都｜地区構成図</title><desc id="desc">西の王城丘、東の聖堂丘、その間の市場、南の川と石橋、内外の市壁、主要な14地区の創作用都市計画図。地理的距離は概念的。</desc>
+<defs>
+  <linearGradient id="paper" x2=".7" y2="1"><stop offset="0" stop-color="#faf7ef"/><stop offset="1" stop-color="#eee8d9"/></linearGradient>
+  <radialGradient id="hill" cx="50%" cy="45%"><stop offset="0" stop-color="#d2c39b" stop-opacity=".85"/><stop offset="1" stop-color="#d2c39b" stop-opacity="0"/></radialGradient>
+  <pattern id="tinyPlots" width="49" height="35" patternUnits="userSpaceOnUse" patternTransform="rotate(-8)">
+    <path d="M3 4 H17 V17 H3Z M23 5 H44 V18 H23Z M7 23 H27 V33 H7Z M32 23 H45 V32 H32Z" fill="#c7ac8c" fill-opacity=".34" stroke="#8c785d" stroke-opacity=".20" stroke-width="1"/>
+  </pattern>
+  <filter id="soft"><feGaussianBlur stdDeviation="13"/></filter>
+  <style>
+    .title{font-family:'Noto Serif CJK JP',serif;font-size:40px;font-weight:bold;fill:#342e2b}
+    .sub{font-family:'Noto Sans CJK JP',sans-serif;font-size:17px;fill:#665f54}
+    .text{font-family:'Noto Sans CJK JP',sans-serif;font-size:19px;fill:#38332e}
+    .label{font-family:'Noto Sans CJK JP',sans-serif;font-size:17px;font-weight:700;fill:#302d2a}
+    .tag{font-family:'Noto Sans CJK JP',sans-serif;font-size:15px;font-weight:700;fill:#31302c}
+    .small{font-family:'Noto Sans CJK JP',sans-serif;font-size:14px;fill:#655d53}
+    .legend{font-family:'Noto Sans CJK JP',sans-serif;font-size:18px;fill:#36322e}
+    .legendsmall{font-family:'Noto Sans CJK JP',sans-serif;font-size:14px;fill:#666056}
+    .road{fill:none;stroke:#fff4d5;stroke-width:13;stroke-linecap:round;stroke-linejoin:round}
+    .minor{fill:none;stroke:#fdf6e8;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+    .contour{fill:none;stroke:#9a895e;stroke-opacity:.45;stroke-width:2;stroke-dasharray:7 7}
+  </style>
+  <clipPath id="clipCity"><path d="M291 284 Q377 204 545 203 L768 220 Q957 225 1082 338 Q1150 434 1140 618 Q1136 735 1040 816 Q923 878 719 871 Q499 874 343 810 Q225 753 199 626 Q168 442 291 284Z"/></clipPath>
+</defs>
+<rect width="1700" height="1140" fill="url(#paper)"/>
+<rect x="29" y="151" width="1182" height="941" rx="14" fill="#e8e5d7" stroke="#c5bbab" stroke-width="2"/>
+<rect x="1226" y="151" width="444" height="941" rx="14" fill="#f9f7f0" stroke="#c5bbab" stroke-width="2"/>
+
+<text x="57" y="74" class="title" >双丘の王都　｜　地区構成図</text>
+<text x="60" y="111" class="sub" >盛期中世ヨーロッパ風／遷都から約100年／創作設計案・名称は仮称</text>
+<g opacity=".52">
+ <path d="M65 330 C154 253 236 251 310 204" class="contour"/><path d="M55 382 C137 300 231 289 300 231" class="contour"/>
+ <path d="M1163 330 C1136 270 1083 234 1030 198" class="contour"/>
+ <path d="M140 907 Q370 893 500 933" class="contour"/><path d="M770 1057 Q944 1044 1135 1084" class="contour"/>
+ </g>
+ <path d="M300 265 Q420 160 554 237 Q625 318 534 477 Q420 545 287 470 Q210 369 300 265Z" fill="url(#hill)"/>
+ <path d="M820 275 Q948 185 1081 286 Q1139 381 1047 507 Q903 549 833 469 Q774 362 820 275Z" fill="url(#hill)"/>
+ <g class="contour"><path d="M275 330 Q357 229 486 265 Q577 298 551 403 Q528 465 443 483"/><path d="M303 348 Q376 271 462 292 Q520 315 521 391"/><path d="M861 331 Q944 264 1043 325 Q1081 386 1010 465"/><path d="M893 346 Q963 295 1019 345 Q1047 393 985 433"/></g>
+
+<path d="M291 284 Q377 204 545 203 L768 220 Q957 225 1082 338 Q1150 434 1140 618 Q1136 735 1040 816 Q923 878 719 871 Q499 874 343 810 Q225 753 199 626 Q168 442 291 284Z" fill="#eadfc7"/>
+<g clip-path="url(#clipCity)" stroke="#fffaf0" stroke-width="6" stroke-linejoin="round">
+ <path d="M220 325 L480 248 L550 435 L485 535 L248 535Z" fill="#c8b7a0"/><!-- castle hill -->
+ <path d="M468 390 L609 370 L665 526 L543 589 L458 526Z" fill="#dfc3a5"/><!-- court -->
+ <path d="M474 229 L694 229 L676 449 L572 455 L511 374Z" fill="#ddc8b7"/><!-- nobles -->
+ <path d="M556 478 L841 475 L830 670 L570 693 L514 581Z" fill="#eacb90"/><!-- market -->
+ <path d="M230 529 L518 520 L573 660 L505 735 L261 697Z" fill="#dec5ac"/><!-- oldtown -->
+ <path d="M831 272 L1100 287 L1088 472 L916 514 L818 413Z" fill="#d0c3ac"/><!-- cathedral -->
+ <path d="M919 448 L1135 430 L1120 547 L924 582 L849 511Z" fill="#c9d6c1"/><!-- church -->
+ <path d="M693 237 L859 256 L887 460 L754 502 L677 455Z" fill="#d3d4bb"/><!-- scholars -->
+ <path d="M835 545 L1137 529 L1122 676 L888 688 L831 659Z" fill="#ebcea4"/><!-- merchants -->
+ <path d="M894 676 L1114 660 L1093 816 L894 835 L854 725Z" fill="#dcc9b6"/><!-- inns -->
+ <path d="M551 690 L865 666 L912 849 L558 863 L509 785Z" fill="#d2b99b"/><!-- workshops -->
+ <path d="M780 805 L1045 768 L1056 863 L796 875Z" fill="#b9d2cb"/><!-- docks -->
+ <path d="M261 695 L524 703 L588 857 L336 812Z" fill="#e2c6b8"/><!-- commons -->
+ <path d="M210 459 L295 446 L324 570 L228 626Z" fill="#c2c8ad"/><!-- garrison -->
+</g>
+<path d="M210 220 H1177 V875 H210Z" fill="url(#tinyPlots)" clip-path="url(#clipCity)" opacity=".8"/>
+
+<path d="M28 944 C237 878 346 944 532 914 C708 881 814 924 988 902 Q1104 899 1210 956 L1210 1032 Q1062 976 994 984 C803 999 734 957 555 995 C361 1039 235 967 28 1019Z" fill="#9bbfc6" stroke="#7ba8b0" stroke-width="3"/>
+ <path d="M38 982 C242 918 353 974 540 958 C695 932 820 959 991 941 C1093 936 1151 980 1199 991" stroke="#d1e7e4" stroke-width="3" fill="none" stroke-dasharray="18 12"/>
+ <path d="M680 895 L694 1006" stroke="#5d6260" stroke-width="37" stroke-linecap="round"/>
+ <path d="M680 895 L694 1006" stroke="#ead4ad" stroke-width="30" stroke-linecap="butt"/>
+ <path d="M675 910 L687 990 M686 910 L699 990" stroke="#fff6e2" stroke-width="2" stroke-dasharray="13 10"/>
+ <path d="M692 1002 L731 1090" stroke="#d4c19c" stroke-width="22" fill="none" stroke-linecap="round"/>
+ <path d="M119 432 L38 399 M170 592 L41 597 M712 210 L713 158 M1125 569 L1196 585" stroke="#c6b99d" stroke-width="19" stroke-linecap="round"/>
+ <path d="M119 432 L38 399 M170 592 L41 597 M712 210 L713 158 M1125 569 L1196 585" stroke="#f4e5c6" stroke-width="13" stroke-linecap="round"/>
+
+<path d="M287 315 Q392 252 523 265 Q655 302 717 408 L733 530 Q691 680 539 744 Q380 774 255 676" fill="none" stroke="#8c7f6b" stroke-width="9" stroke-dasharray="33 15" opacity=".48"/>
+ <path d="M287 315 Q392 252 523 265 Q655 302 717 408 L733 530 Q691 680 539 744 Q380 774 255 676" fill="none" stroke="#f2e6d2" stroke-width="3" stroke-dasharray="33 15" opacity=".8"/>
+
+<g class="minor">
+<path d="M300 540 Q358 571 411 589 L514 587 M329 671 Q400 655 507 668 M365 707 Q460 735 514 785"/>
+<path d="M510 345 L564 372 L617 420 M543 430 L576 492 M570 263 L595 335"/>
+<path d="M774 277 L762 354 L809 433 M836 347 L865 440 M932 516 L945 566 M1011 530 L1031 594"/>
+<path d="M874 622 L933 655 L1067 646 M918 702 L994 749 M602 719 L734 735 L861 715 M584 803 L720 805"/>
+<path d="M783 781 L806 825 L939 810 M345 758 L441 793"/>
+</g>
+
+<path d="M200 597 L342 598 L498 598 L601 578 L675 574" fill="none" stroke="#a89474" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M676 575 Q788 578 899 582 L1138 588" fill="none" stroke="#a89474" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M709 208 L709 332 Q703 442 674 574 L691 742 L697 869" fill="none" stroke="#a89474" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470 435 Q531 467 573 503 L673 574" fill="none" stroke="#a89474" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M868 440 Q813 495 749 544 L673 574" fill="none" stroke="#a89474" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M700 736 L852 798 L991 812" fill="none" stroke="#a89474" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1122 584 L1081 675 L1066 797" fill="none" stroke="#a89474" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M200 597 L342 598 L498 598 L601 578 L675 574" class="road"/>
+<path d="M676 575 Q788 578 899 582 L1138 588" class="road"/>
+<path d="M709 208 L709 332 Q703 442 674 574 L691 742 L697 869" class="road"/>
+<path d="M470 435 Q531 467 573 503 L673 574" class="road"/>
+<path d="M868 440 Q813 495 749 544 L673 574" class="road"/>
+<path d="M700 736 L852 798 L991 812" class="road"/>
+<path d="M1122 584 L1081 675 L1066 797" class="road"/>
+<path d="M291 284 Q377 204 545 203 L768 220 Q957 225 1082 338 Q1150 434 1140 618 Q1136 735 1040 816 Q923 878 719 871 Q499 874 343 810 Q225 753 199 626 Q168 442 291 284Z" fill="none" stroke="#5a6060" stroke-width="19" stroke-linejoin="round"/>
+<path d="M291 284 Q377 204 545 203 L768 220 Q957 225 1082 338 Q1150 434 1140 618 Q1136 735 1040 816 Q923 878 719 871 Q499 874 343 810 Q225 753 199 626 Q168 442 291 284Z" fill="none" stroke="#c8c3b6" stroke-width="11" stroke-linejoin="round"/>
+
+<rect x="281" y="274" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="386" y="216" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="530" y="193" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="805" y="223" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="933" y="254" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="1072" y="328" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="1119" y="457" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="1120" y="690" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="1030" y="806" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="914" y="854" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="806" y="868" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="540" y="859" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="333" y="800" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="222" y="691" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<rect x="177" y="470" width="20" height="20" rx="4" fill="#8d8f87" stroke="#555b5b" stroke-width="3"/>
+<g transform="translate(710 215) rotate(0)"><rect x="-28" y="-12" width="56" height="24" fill="#e5d3ad" stroke="#555c5c" stroke-width="3"/><rect x="-32" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/><rect x="17" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/></g>
+<g transform="translate(198 596) rotate(90)"><rect x="-28" y="-12" width="56" height="24" fill="#e5d3ad" stroke="#555c5c" stroke-width="3"/><rect x="-32" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/><rect x="17" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/></g>
+<g transform="translate(1140 585) rotate(90)"><rect x="-28" y="-12" width="56" height="24" fill="#e5d3ad" stroke="#555c5c" stroke-width="3"/><rect x="-32" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/><rect x="17" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/></g>
+<g transform="translate(703 871) rotate(0)"><rect x="-28" y="-12" width="56" height="24" fill="#e5d3ad" stroke="#555c5c" stroke-width="3"/><rect x="-32" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/><rect x="17" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/></g>
+<g transform="translate(1090 342) rotate(45)"><rect x="-28" y="-12" width="56" height="24" fill="#e5d3ad" stroke="#555c5c" stroke-width="3"/><rect x="-32" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/><rect x="17" y="-20" width="15" height="40" rx="3" fill="#747c7a" stroke="#444b49" stroke-width="3"/></g>
+<path d="M267 337 L337 281 L447 287 L491 361 L473 449 L372 471 L284 434Z" fill="#d0c4ad" stroke="#575a58" stroke-width="8"/>
+ <path d="M313 330 L358 303 L431 311 L457 362 L436 420 L360 439 L309 410Z" fill="#c6c4b7" stroke="#626460" stroke-width="4"/>
+ <rect x="327" y="341" width="74" height="38" rx="3" fill="#8f8782" stroke="#5d5854" stroke-width="2"/>
+ <rect x="411" y="333" width="25" height="61" rx="3" fill="#b1a49b" stroke="#5d5854" stroke-width="2"/>
+ <rect x="343" y="398" width="69" height="22" rx="3" fill="#aaa9a0" stroke="#5d5854" stroke-width="2"/>
+ <circle cx="453" cy="423" r="12" fill="#8b9188" stroke="#525852" stroke-width="3"/>
+
+<path d="M875 325 L946 281 L1042 319 L1082 395 L1043 463 L919 474 L853 416Z" fill="#dae2d3" stroke="#818f80" stroke-width="6"/>
+ <path d="M906 350 L1031 350 L1031 408 L906 408Z" fill="#a9a9a2" stroke="#777770" stroke-width="2"/>
+ <path d="M997 337 L1044 337 L1044 422 L997 422Z" fill="#a9a9a2" stroke="#777770" stroke-width="2"/>
+ <rect x="921" y="331" width="22" height="96" fill="#888d8c" stroke="#777770" stroke-width="2"/>
+ <rect x="952" y="350" width="16" height="58" fill="#d8d5c9"/>
+ <circle cx="944" cy="355" r="7" fill="#666f6c"/>
+ <circle cx="944" cy="404" r="7" fill="#666f6c"/>
+
+<path d="M618 522 L736 522 L760 624 L623 633 L597 561Z" fill="#f5e7bd" stroke="#b49c6d" stroke-width="4"/>
+ <circle cx="680" cy="584" r="14" fill="#b2a289" stroke="#8d7d67" stroke-width="2"/>
+ <path d="M676 573 L684 573 M680 570 L680 598" stroke="#f9f2d9" stroke-width="3"/>
+
+<path d="M907 854 L1036 830" stroke="#91785b" stroke-width="8" stroke-linecap="round"/><path d="M962 848 L965 812 L995 803" stroke="#786851" stroke-width="4" fill="none"/>
+ <circle cx="1080" cy="918" r="19" fill="#aa8f6e" stroke="#6a6e69" stroke-width="4"/><path d="M1080 900 V936 M1062 918 H1098 M1067 905 L1093 931 M1093 905 L1067 931" stroke="#e3dfca" stroke-width="3"/>
+
+<circle cx="389" cy="380" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="389" y="385" class="tag" text-anchor="middle">01</text>
+<circle cx="564" cy="482" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="564" y="487" class="tag" text-anchor="middle">02</text>
+<circle cx="585" cy="317" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="585" y="322" class="tag" text-anchor="middle">03</text>
+<circle cx="683" cy="611" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="683" y="616" class="tag" text-anchor="middle">04</text>
+<circle cx="385" cy="617" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="385" y="622" class="tag" text-anchor="middle">05</text>
+<circle cx="991" cy="384" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="991" y="389" class="tag" text-anchor="middle">06</text>
+<circle cx="997" cy="515" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="997" y="520" class="tag" text-anchor="middle">07</text>
+<circle cx="780" cy="339" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="780" y="344" class="tag" text-anchor="middle">08</text>
+<circle cx="974" cy="624" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="974" y="629" class="tag" text-anchor="middle">09</text>
+<circle cx="1016" cy="740" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="1016" y="745" class="tag" text-anchor="middle">10</text>
+<circle cx="676" cy="778" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="676" y="783" class="tag" text-anchor="middle">11</text>
+<circle cx="904" cy="831" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="904" y="836" class="tag" text-anchor="middle">12</text>
+<circle cx="402" cy="760" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="402" y="765" class="tag" text-anchor="middle">13</text>
+<circle cx="253" cy="530" r="16" fill="#fcfaf4" stroke="#756450" stroke-width="2.6"/>
+<text x="253" y="535" class="tag" text-anchor="middle">14</text>
+<text x="385" y="458" class="label" text-anchor="middle">王城</text>
+<text x="560" y="506" class="label" text-anchor="middle">官衙</text>
+<text x="588" y="340" class="label" text-anchor="middle">貴族街</text>
+<text x="678" y="647" class="label" text-anchor="middle">大市場</text>
+<text x="384" y="644" class="label" text-anchor="middle">旧市街</text>
+<text x="988" y="429" class="label" text-anchor="middle">大聖堂</text>
+<text x="1000" y="539" class="label" text-anchor="middle">参事会</text>
+<text x="779" y="371" class="label" text-anchor="middle">書記・学匠</text>
+<text x="974" y="650" class="label" text-anchor="middle">商人街</text>
+<text x="1016" y="770" class="label" text-anchor="middle">旅籠</text>
+<text x="671" y="809" class="label" text-anchor="middle">工房</text>
+<text x="895" y="858" class="label" text-anchor="middle">船着場</text>
+<text x="403" y="784" class="label" text-anchor="middle">教区</text>
+<text x="254" y="557" class="label" text-anchor="middle">衛兵</text>
+<text x="707" y="185" class="tag" text-anchor="middle">北門</text>
+<text x="105" y="600" class="tag" text-anchor="middle">西門</text>
+<text x="1132" y="550" class="tag" text-anchor="middle">東門</text>
+<text x="719" y="899" class="tag" text-anchor="start">南門</text>
+<text x="1090" y="308" class="tag" text-anchor="middle">司教門</text>
+<text x="742" y="984" class="tag" text-anchor="start">石橋</text>
+<text x="782" y="1014" class="tag" >南方街道・郊外家畜市</text>
+<text x="178" y="1036" class="tag" >川：西から東へ流れる</text>
+<text x="1072" y="996" class="tag" >下流 →</text>
+<text x="1066" y="904" class="tag" >水車</text>
+<rect x="1034" y="187" width="130" height="42" rx="8" fill="#d6decb" stroke="#9fad99" stroke-width="2"/>
+<rect x="58" y="763" width="123" height="55" rx="8" fill="#dfdccb" stroke="#b1aa92" stroke-width="2"/>
+<text x="1099" y="214" class="tag" text-anchor="middle">修道院・施療院</text>
+<text x="119" y="794" class="tag" text-anchor="middle">畑・菜園</text>
+<g transform="translate(93 224)"><circle r="33" fill="#f9f7ee" stroke="#a7a18e" stroke-width="2"/><path d="M0 -22 L10 10 L0 5 L-10 10Z" fill="#536768"/><text x="0" y="-39" text-anchor="middle" class="tag">北</text></g>
+<text x="1254" y="204" class="title" style="font-size:28px">凡例・地区案</text>
+<text x="1257" y="238" class="legendsmall" >数字は地図上の地区番号</text>
+<rect x="1252" y="257" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="276" class="tag" text-anchor="middle">01</text>
+<text x="1307" y="275" class="legend" >王城丘</text>
+<text x="1310" y="293" class="legendsmall" >城塞・居館・近衛</text>
+<rect x="1252" y="300" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="319" class="tag" text-anchor="middle">02</text>
+<text x="1307" y="318" class="legend" >官庁・宮廷街</text>
+<text x="1310" y="336" class="legendsmall" >財務・文書・廷臣</text>
+<rect x="1252" y="343" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="362" class="tag" text-anchor="middle">03</text>
+<text x="1307" y="361" class="legend" >貴族街</text>
+<text x="1310" y="379" class="legendsmall" >貴族の館・庭園</text>
+<rect x="1252" y="386" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="405" class="tag" text-anchor="middle">04</text>
+<text x="1307" y="404" class="legend" >中央市場</text>
+<text x="1310" y="422" class="legendsmall" >取引・広場・市会</text>
+<rect x="1252" y="429" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="448" class="tag" text-anchor="middle">05</text>
+<text x="1307" y="447" class="legend" >旧市街</text>
+<text x="1310" y="465" class="legendsmall" >古い店・路地</text>
+<rect x="1252" y="472" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="491" class="tag" text-anchor="middle">06</text>
+<text x="1307" y="490" class="legend" >聖堂丘</text>
+<text x="1310" y="508" class="legendsmall" >大聖堂・祭礼</text>
+<rect x="1252" y="515" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="534" class="tag" text-anchor="middle">07</text>
+<text x="1307" y="533" class="legend" >司教区</text>
+<text x="1310" y="551" class="legendsmall" >司教館・参事会</text>
+<rect x="1252" y="558" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="577" class="tag" text-anchor="middle">08</text>
+<text x="1307" y="576" class="legend" >学匠・書記街</text>
+<text x="1310" y="594" class="legendsmall" >学校・写本・法務</text>
+<rect x="1252" y="601" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="620" class="tag" text-anchor="middle">09</text>
+<text x="1307" y="619" class="legend" >商人街</text>
+<text x="1310" y="637" class="legendsmall" >高級商店・両替</text>
+<rect x="1252" y="644" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="663" class="tag" text-anchor="middle">10</text>
+<text x="1307" y="662" class="legend" >旅籠街</text>
+<text x="1310" y="680" class="legendsmall" >宿・隊商・厩舎</text>
+<rect x="1252" y="687" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="706" class="tag" text-anchor="middle">11</text>
+<text x="1307" y="705" class="legend" >職人街</text>
+<text x="1310" y="723" class="legendsmall" >織物・鍛冶・木工</text>
+<rect x="1252" y="730" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="749" class="tag" text-anchor="middle">12</text>
+<text x="1307" y="748" class="legend" >河岸・倉庫街</text>
+<text x="1310" y="766" class="legendsmall" >船荷・検量・通関</text>
+<rect x="1252" y="773" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="792" class="tag" text-anchor="middle">13</text>
+<text x="1307" y="791" class="legend" >庶民・教区街</text>
+<text x="1310" y="809" class="legendsmall" >住居・小教会</text>
+<rect x="1252" y="816" width="38" height="28" rx="8" fill="#e4d8c4" stroke="#b4a68e"/>
+<text x="1271" y="835" class="tag" text-anchor="middle">14</text>
+<text x="1307" y="834" class="legend" >門前兵営</text>
+<text x="1310" y="852" class="legendsmall" >衛兵・警備・馬</text>
+<path d="M1250 897 H1643" stroke="#d8cdbd" stroke-width="2"/><path d="M1265 921 H1330" stroke="#666c6c" stroke-width="10"/><path d="M1265 948 H1330" stroke="#8c7f6b" stroke-width="6" stroke-dasharray="16 8"/><path d="M1265 974 H1330" stroke="#fff0cf" stroke-width="10"/><path d="M1265 1000 H1330" stroke="#91b8bf" stroke-width="14"/>
+<text x="1346" y="927" class="legend" >新市壁</text>
+<text x="1346" y="953" class="legend" >旧市壁跡</text>
+<text x="1346" y="980" class="legend" >主要街路</text>
+<text x="1346" y="1006" class="legend" >川・水路</text>
+<text x="1257" y="1060" class="legendsmall" >※ 図は模式図・縮尺なし</text>
+<text x="1257" y="1082" class="legendsmall" >※ 大聖堂と王城の別丘構成は創作案</text>
+</svg>
