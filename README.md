@@ -1,4 +1,4 @@
-# 謎の長命種は薬師をしている
+# 敗北エルフを拾ったので復活させる　―世界支配すら可能な5万年の賢者は救済のかたわら事件を堪能する―
 
 ## 文書
 
@@ -35,3 +35,4 @@
 - thinking-notes/thi-004.md: 制作手法についてなど
 - thinking-notes/thi-005.md: 企画と作り始め
 - thinking-notes/thi-006.md: コンセプト再考
+- thinking-notes/thi-007.md: 舞台設定
