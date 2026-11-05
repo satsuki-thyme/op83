@@ -1,0 +1,413 @@
+summary:
+
+  - リレイド = 優しげ
+  - スヴィア = 凜々しい
+  - カトリナ = 元気
+  - ファティアナ = 物静か
+
+details:
+
+#                                  o8o              
+#                                  `"'              
+#     ooo. .oo.  .oo.    .oooo.   oooo  ooo. .oo.   
+#     `888P"Y88bP"Y88b  `P  )88b  `888  `888P"Y88b  
+#      888   888   888   .oP"888   888   888   888  
+#      888   888   888  d8(  888   888   888   888  
+#     o888o o888o o888o `Y888""8o o888o o888o o888o 
+
+  - group: main
+    member:
+
+#     oooo                                  o8o        .o8  
+#     `888                                  `"'       "888  
+#      888  oooo    ooo oooo d8b  .oooo.   oooo   .oooo888  
+#      888   `88.  .8'  `888""8P `P  )88b  `888  d88' `888  
+#      888    `88..8'    888      .oP"888   888  888   888  
+#      888     `888'     888     d8(  888   888  888   888  
+#     o888o     .8'     d888b    `Y888""8o o888o `Y8bod88P" 
+#           .o..P'                                          
+#           `Y8P'                                           
+
+      - dn: リレイド
+        meta data:
+          role: 主人公
+          applicable chapter: continuous
+        innate nature:
+          self awareness: blank
+          full name: リレイド
+          nickname: リー
+          race: ドラゴンとエルフのハーフ
+          gender: 男
+          age: 53678
+          apparent age: 20
+          birthplace: unknown
+        current status:
+          address: 王都
+          affiliation: 魔法屋
+        outer personality:
+          overview:
+            怒ると目が怖い
+            武器は一通り使え、普段は細身の剣を携行している
+            blank
+          special skills:
+            魔法制作
+            blank
+          forte:
+            原始魔法
+          weaknesses:
+            情
+          secret:
+            神より強いこと
+          hobby:
+            魔法開発
+          etc:
+            長く生きただけあって魔道具の制作にも造詣が深く徒弟に教えることもできる
+            権能魔法を作っていて自身も使えるが原始魔法のほうが得意で底知れない繊細さと強さがある
+        personality:
+          overview:
+            基本的に穏やか
+            感情に流されやすい
+            好奇心旺盛
+
+        appearance:
+          overview: 優しそうで格好いい
+          eye-catching features: 優しそうな目
+          first impression: 優しそう
+          face:
+            overview: 見目が麗しい
+            hair: blank
+            eyes: 深い青
+          body:
+            overview: 細マッチョ
+            height: 183
+            arm: blank
+            breast/chest: blank
+            waist: blank
+            hips: blank
+            buttocks: blank
+            leg: blank
+          voice:
+            tone: 軽い
+            refer to myself as: 僕
+
+#                           o8o            
+#                           `"'            
+#      .oooo.o oooo    ooo oooo   .oooo.   
+#     d88(  "8  `88.  .8'  `888  `P  )88b  
+#     `"Y88b.    `88..8'    888   .oP"888  
+#     o.  )88b    `888'     888  d8(  888  
+#     8""888P'     `8'     o888o `Y888""8o 
+
+      - dn: スヴィア
+        meta data:
+          role: ヒロイン
+          applicable chapter: continuous
+        innate nature:
+          self awareness: blank
+          full name: スヴィア（・クレストボルン）
+          nickname: スヴィ
+          race: エルフ
+          gender: 女
+          age: 19
+          apparent age: 19
+          birthplace: blank
+        current status:
+          address: blank
+          affiliation: 魔法屋
+        outer personality:
+          overview:
+            剣士, 魔法剣士
+            細身の剣を携行している
+            短いスカート
+          special skills:
+            剣技
+            精霊魔法
+          forte:
+            剣技
+            繊細な魔法
+          weaknesses:
+            繊細
+          secret:
+            臆病なこと
+          hobby:
+            お花摘み
+          etc:
+            blank
+        personality:
+          overview:
+            真面目で芯が強い
+            臆病
+            親しくなるとお茶目な一面も見せる
+
+        appearance:
+          overview: 凜々しい
+          eye-catching features: 美しい目
+          first impression: 真面目
+          face:
+            overview: 精悍で端麗
+            hair: 黄金色
+            eyes: 明るい黄緑
+          body:
+            overview: 華奢
+            height: 162
+            arm: blank
+            breast/chest: 小振りなリンゴほどの
+            waist: くびれ
+            hips: 腰つき
+            buttocks: もっちり
+            leg: 細くてむっちり
+          voice:
+            tone: ハスキー
+            refer to myself as: 私
+
+#                             .       .             o8o                        
+#                           .o8     .o8             `"'                        
+#      .ooooo.   .ooooo.  .o888oo .o888oo oooo d8b oooo  ooo. .oo.    .oooo.   
+#     d88' `"Y8 d88' `88b   888     888   `888""8P `888  `888P"Y88b  `P  )88b  
+#     888       888   888   888     888    888      888   888   888   .oP"888  
+#     888   .o8 888   888   888 .   888 .  888      888   888   888  d8(  888  
+#     `Y8bod8P' `Y8bod8P'   "888"   "888" d888b    o888o o888o o888o `Y888""8o 
+
+      - dn: カトリナ
+        meta data:
+          role: サブヒロイン
+          applicable chapter: continuous
+        innate nature:
+          self awareness: blank
+          full name: カトリナ・シナリアノス
+          nickname: カー
+          race: 兎獣人
+          gender: 女
+          age: 16
+          apparent age: 16
+          birthplace: blank
+        current status:
+          address: blank
+          affiliation: 魔法屋
+        outer personality:
+          overview:
+            獣人ということで魔法使いとしての才能は低いが魔法制作者としては優秀
+            魔道具を作るのが上手い
+          special skills:
+            魔法制作
+            魔道具制作
+          forte:
+            器用
+          weaknesses:
+            blank
+          secret:
+            blank
+          hobby:
+            blank
+          etc:
+            blank
+        personality:
+          overview:
+            好奇心旺盛
+            冗談が好き
+            イタズラをする
+
+        appearance:
+          overview: 元気
+          eye-catching features: 耳
+          first impression: 面白そう
+          face:
+            overview: 明るくひょうきんな性格がよく表れ、元気さの輝く可憐な少女
+            hair: blank
+            eyes: 水色
+          body:
+            overview: 小柄
+            height: 155
+            arm: blank
+            breast/chest: blank
+            waist: blank
+            hips: blank
+            buttocks: blank
+            leg: blank
+          voice:
+            tone: 澄んで高い
+            refer to myself as: 私
+
+
+
+
+
+
+
+
+
+
+#                           .o8       
+#                          "888       
+#      .oooo.o oooo  oooo   888oooo.  
+#     d88(  "8 `888  `888   d88' `88b 
+#     `"Y88b.   888   888   888   888 
+#     o.  )88b  888   888   888   888 
+#     8""888P'  `V88V"V8P'  `Y8bod8P' 
+
+  - group: sub
+    member:
+
+#      .o88o.               .    o8o                                              
+#      888 `"             .o8    `"'                                              
+#     o888oo   .oooo.   .o888oo oooo   .oooo.   ooo. .oo.   ooo. .oo.    .oooo.   
+#      888    `P  )88b    888   `888  `P  )88b  `888P"Y88b  `888P"Y88b  `P  )88b  
+#      888     .oP"888    888    888   .oP"888   888   888   888   888   .oP"888  
+#      888    d8(  888    888 .  888  d8(  888   888   888   888   888  d8(  888  
+#     o888o   `Y888""8o   "888" o888o `Y888""8o o888o o888o o888o o888o `Y888""8o 
+
+      - dn: ファティアナ
+        meta data:
+          role: blank
+          applicable chapter: continuous
+        innate nature:
+          self awareness: blank
+          full name: ファティアナ
+          nickname: ファー
+          race: ドラゴン
+          gender: 女
+          age: 32452
+          apparent age: blank
+          birthplace: blank
+        current status:
+          address: blank
+          affiliation: blank
+        outer personality:
+          overview:
+            blank
+            blank
+            blank
+          special skills:
+            blank
+            blank
+          forte:
+            blank
+          weaknesses:
+            blank
+          secret:
+            blank
+          hobby:
+            blank
+          etc:
+            blank
+        personality:
+          overview:
+            blank
+            blank
+            blank
+            blank
+            blank
+
+        appearance:
+          overview: blank
+          eye-catching features: blank
+          first impression: blank
+          face:
+            overview: blank
+            hair: blank
+            eyes: blank
+          body:
+            overview: blank
+            height: blank
+            arm: blank
+            breast/chest: blank
+            waist: blank
+            hips: blank
+            buttocks: blank
+            leg: blank
+          voice:
+            tone: blank
+            refer to myself as: blank
+
+
+
+
+
+
+
+
+
+
+
+#      .o8       oooo                        oooo        
+#     "888       `888                        `888        
+#      888oooo.   888   .oooo.   ooo. .oo.    888  oooo  
+#      d88' `88b  888  `P  )88b  `888P"Y88b   888 .8P'   
+#      888   888  888   .oP"888   888   888   888888.    
+#      888   888  888  d8(  888   888   888   888 `88b.  
+#      `Y8bod8P' o888o `Y888""8o o888o o888o o888o o888o 
+
+  - group: blank
+    member:
+
+#      .o8       oooo                        oooo        
+#     "888       `888                        `888        
+#      888oooo.   888   .oooo.   ooo. .oo.    888  oooo  
+#      d88' `88b  888  `P  )88b  `888P"Y88b   888 .8P'   
+#      888   888  888   .oP"888   888   888   888888.    
+#      888   888  888  d8(  888   888   888   888 `88b.  
+#      `Y8bod8P' o888o `Y888""8o o888o o888o o888o o888o 
+
+      - dn: blank
+        meta data:
+          role: blank
+          applicable chapter: blank
+        innate nature:
+          self awareness: blank
+          full name: blank
+          nickname: blank
+          race: blank
+          gender: blank
+          age: blank
+          apparent age: blank
+          birthplace: blank
+        current status:
+          address: blank
+          affiliation: blank
+        outer personality:
+          overview:
+            blank
+            blank
+            blank
+          special skills:
+            blank
+            blank
+          forte:
+            blank
+          weaknesses:
+            blank
+          secret:
+            blank
+          hobby:
+            blank
+          etc:
+            blank
+        personality:
+          overview:
+            blank
+            blank
+            blank
+            blank
+            blank
+
+        appearance:
+          overview: blank
+          eye-catching features: blank
+          first impression: blank
+          face:
+            overview: blank
+            hair: blank
+            eyes: blank
+          body:
+            overview: blank
+            height: blank
+            arm: blank
+            breast/chest: blank
+            waist: blank
+            hips: blank
+            buttocks: blank
+            leg: blank
+          voice:
+            tone: blank
+            refer to myself as: blank
+

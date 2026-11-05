@@ -1,0 +1,115 @@
+overview comparison:
+
+  - リレイド = 自由人
+  - スヴィア = 真面目
+  - カトリナ = 冗談好き
+  - ファティアナ = 沈思黙考
+
+details:
+
+  - group:
+    class: main
+    first appealance: 1
+    member:
+
+      - dn: リレイド
+        charm:
+          title:
+            自由人
+          entity:
+            predicament:
+              気の赴くまま
+            normaly:
+              気の赴くまま
+        desire:
+          title:
+            楽しく生きたい
+          conflict:
+            諸事情
+          background connected to desire:
+            人生経験
+
+      - dn: スヴィア
+        charm:
+          title:
+            凜々しい
+          entity:
+            predicament:
+              ストイックに峻厳に立ち向かう
+            normaly:
+              真面目
+        desire:
+          title:
+            何者かになりたい
+          conflict:
+            何か違うと言う感覚
+          background connected to desire:
+            認められなかった
+
+      - dn: カトリナ
+        charm:
+          title:
+            ユーモラス
+          entity:
+            predicament:
+              不敵に笑みを浮かべて立ち向かう
+            normaly:
+              冗談が好き
+        desire:
+          title:
+            学びたい
+          conflict:
+            なし
+          background connected to desire:
+            冗談をなすには知識が必要だと思っている
+
+  - group:
+    class: sub
+    first appealance: 1
+    member:
+
+      - dn: ファティアナ
+        charm:
+          title:
+            物静か
+          entity:
+            predicament:
+              黙々と立ち向かう
+            normaly:
+              物静か
+        desire:
+          title:
+            世界の均衡
+          conflict:
+            諸事情
+          background connected to desire:
+            長年の思案
+
+  - group:
+    class: enemy
+    first appealance: 1
+    member:
+
+  - group:
+    class: blank
+    first appealance: blank
+    member:
+
+      - dn: 
+        charm:
+          title:
+            blank
+          entity:
+            predicament:
+              blank
+            normaly:
+              blank
+        desire:
+          title:
+            blank
+          conflict:
+            blank
+          background connected to desire:
+            blank
+
+
