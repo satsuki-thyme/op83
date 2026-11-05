@@ -6,15 +6,17 @@
 
 #### 本文
 
-#### チャプタープラン
+#### エピソード構築
 
-
-#### チャプタープロット
-
+- 01/episode/build/bui-001.md: エピソード構築 第1話
 
 #### エピソード構造体
 
 ### 設定
+
+- settings/character-base.yml: キャラクターの基礎設定
+- settings/characters.yml:     キャラクター設定
+- settings/reference.yml:      参照
 
 
 ### 全体計画
