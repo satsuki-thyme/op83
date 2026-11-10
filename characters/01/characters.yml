@@ -1,0 +1,170 @@
+summary:
+
+  -  = 
+
+details:
+
+#                           .o8       
+#                          "888       
+#      .oooo.o oooo  oooo   888oooo.  
+#     d88(  "8 `888  `888   d88' `88b 
+#     `"Y88b.   888   888   888   888 
+#     o.  )88b  888   888   888   888 
+#     8""888P'  `V88V"V8P'  `Y8bod8P' 
+
+  - group: sub
+    member:
+
+#      .o8       oooo                        oooo        
+#     "888       `888                        `888        
+#      888oooo.   888   .oooo.   ooo. .oo.    888  oooo  
+#      d88' `88b  888  `P  )88b  `888P"Y88b   888 .8P'   
+#      888   888  888   .oP"888   888   888   888888.    
+#      888   888  888  d8(  888   888   888   888 `88b.  
+#      `Y8bod8P' o888o `Y888""8o o888o o888o o888o o888o 
+
+      - dn: blank
+        meta data:
+          role: blank
+          applicable chapter: blank
+        innate nature:
+          self awareness: blank
+          full name: blank
+          nickname: blank
+          race: blank
+          gender: blank
+          age: blank
+          apparent age: blank
+          birthplace: blank
+        current status:
+          address: blank
+          affiliation: blank
+        outer personality:
+          overview:
+            blank
+            blank
+            blank
+          special skills:
+            blank
+            blank
+          forte:
+            blank
+          weaknesses:
+            blank
+          secret:
+            blank
+          hobby:
+            blank
+          etc:
+            blank
+        personality:
+          overview:
+            blank
+            blank
+            blank
+            blank
+            blank
+
+        appearance:
+          overview: blank
+          eye-catching features: blank
+          first impression: blank
+          face:
+            overview: blank
+            hair: blank
+            eyes: blank
+          body:
+            overview: blank
+            height: blank
+            arm: blank
+            breast/chest: blank
+            waist: blank
+            hips: blank
+            buttocks: blank
+            leg: blank
+          voice:
+            tone: blank
+            refer to myself as: blank
+
+#      .o8       oooo                        oooo        
+#     "888       `888                        `888        
+#      888oooo.   888   .oooo.   ooo. .oo.    888  oooo  
+#      d88' `88b  888  `P  )88b  `888P"Y88b   888 .8P'   
+#      888   888  888   .oP"888   888   888   888888.    
+#      888   888  888  d8(  888   888   888   888 `88b.  
+#      `Y8bod8P' o888o `Y888""8o o888o o888o o888o o888o 
+
+  - group: blank
+    member:
+
+#      .o8       oooo                        oooo        
+#     "888       `888                        `888        
+#      888oooo.   888   .oooo.   ooo. .oo.    888  oooo  
+#      d88' `88b  888  `P  )88b  `888P"Y88b   888 .8P'   
+#      888   888  888   .oP"888   888   888   888888.    
+#      888   888  888  d8(  888   888   888   888 `88b.  
+#      `Y8bod8P' o888o `Y888""8o o888o o888o o888o o888o 
+
+      - dn: blank
+        meta data:
+          role: blank
+          applicable chapter: blank
+        innate nature:
+          self awareness: blank
+          full name: blank
+          nickname: blank
+          race: blank
+          gender: blank
+          age: blank
+          apparent age: blank
+          birthplace: blank
+        current status:
+          address: blank
+          affiliation: blank
+        outer personality:
+          overview:
+            blank
+            blank
+            blank
+          special skills:
+            blank
+            blank
+          forte:
+            blank
+          weaknesses:
+            blank
+          secret:
+            blank
+          hobby:
+            blank
+          etc:
+            blank
+        personality:
+          overview:
+            blank
+            blank
+            blank
+            blank
+            blank
+
+        appearance:
+          overview: blank
+          eye-catching features: blank
+          first impression: blank
+          face:
+            overview: blank
+            hair: blank
+            eyes: blank
+          body:
+            overview: blank
+            height: blank
+            arm: blank
+            breast/chest: blank
+            waist: blank
+            hips: blank
+            buttocks: blank
+            leg: blank
+          voice:
+            tone: blank
+            refer to myself as: blank
+

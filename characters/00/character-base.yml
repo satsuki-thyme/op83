@@ -7,9 +7,7 @@ overview comparison:
 
 details:
 
-  - group:
-    class: main
-    first appealance: 1
+  - group: main
     member:
 
       - dn: リレイド
@@ -63,9 +61,7 @@ details:
           background connected to desire:
             冗談をなすには知識が必要だと思っている
 
-  - group:
-    class: sub
-    first appealance: 1
+  - group: sub
     member:
 
       - dn: ファティアナ
@@ -85,14 +81,7 @@ details:
           background connected to desire:
             長年の思案
 
-  - group:
-    class: enemy
-    first appealance: 1
-    member:
-
-  - group:
-    class: blank
-    first appealance: blank
+  - group: blank
     member:
 
       - dn: 
