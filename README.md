@@ -2,22 +2,30 @@
 
 ## 文書
 
-### 第1章
+### 本文
 
-#### 本文
+#### 第1章
 
-#### エピソード構築
+### 制作
 
-- 01/episode/build/bui-001.md: エピソード構築 第1話
+#### 第1章
+
+##### エピソード計画
+
+- 01/plot/episode-build/bui-001.md: エピソード構築 第1話
 
 #### エピソード構造体
 
-### 設定
+#### キャラクター
 
-- settings/character-base.yml: キャラクターの基礎設定
-- settings/characters.yml:     キャラクター設定
-- settings/reference.yml:      参照
+##### メイン
 
+- characters/00/character-base.yml: キャラクターの基礎設定
+- characters/00/characters.yml:     キャラクター設定
+
+#### 設定
+
+- settings/reference.yml: 参照
 
 ### 全体計画
 
