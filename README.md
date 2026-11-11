@@ -13,8 +13,11 @@
 ##### エピソード計画
 
 - 01/plot/episode-build/bui-001.md: エピソード構築 第1話
+- 01/plot/episode-build/bui-002.md: エピソード構築 第2話
 
 #### エピソード構造体
+
+- 01/plot/episode/str-001.yml: エピソード構造体 第1話
 
 #### キャラクター
 
