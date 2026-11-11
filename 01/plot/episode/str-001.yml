@@ -1,45 +1,80 @@
+- sequence: はじめに
+  sequence gist:
+    - sequence gist item: 足音、二足歩行、ゴブリンより重くオーガより軽い、人族だ
+    - sequence gist item: 一日中晴れのつもりだったのに曇ってきて嫌なことが起こりそうだった
+    - sequence gist item: エルフの集団が走ってくる、先頭は少女、男たちが続く
+    - sequence gist item: 男たちは殺すまでもない、催眠で十分だ
+
+  sequence configuration:
+
+    sequence climax: 走ってくる人の目視
+
+    sequence meaning:
+      - sequence meaning item: 導入
+
+    sequence interest:
+      - sequence interest item: 事件発生！
+
+    sequence desire:
+      - sequence desire dn: 主人公
+        sequence desire desire: 非日常を体験したい
+        sequence desire conflict:
+          - sequence desire conflict-dn: エルフの少女
+            sequence desire conflict-desire: 助けて！
+        sequence desire risk: 予想外の非日常
+        sequence desire results: 予想外の非日常
+        sequence desire gap: 重いのを引き当ててしまった
+
+    sequence value-change:
+      - sequence value-change dn: 主人公
+        sequence value-change value: 非日常が欲しい
+        sequence value-change change: .+++ \ .---
+        sequence value-change notes: 思っていた非日常じゃなかった
+
+    sequence unpredictability-of-the-end:
+      - sequence unpredictability-of-the-end item: エルフの少女はどうなるのか
+      - sequence unpredictability-of-the-end item: 主人公はどうするのか
+
+  sequence elements:
+
 - sequence: ヒロインピンチ
   sequence gist:
-    - sequence gist item: 事情説明
-    - sequence gist item: ヒロイン救出
-    - sequence gist item: 主人公の強さ
-    - sequence gist item: 
+    - sequence gist item: エルフの少女は手足を折られる
+    - sequence gist item: 主人公は感情的になって男たちの頭目を殺してしまう
 
   sequence configuration:
 
-    sequence climax: 
+    sequence climax: エルフの少女が股間を踏まれて悲鳴を上げる
 
     sequence meaning:
-      - sequence meaning item: 
+      - sequence meaning item: ピンチ
 
     sequence interest:
-      - sequence interest item: 
+      - sequence interest item: ヒロインピンチ
 
     sequence desire:
-      - sequence desire dn: 
-        sequence desire desire: 
+      - sequence desire dn: 主人公
+        sequence desire desire: 助けたい
         sequence desire conflict:
-          - sequence desire conflict-dn: 
-            sequence desire conflict-desire: 
-        sequence desire risk: 
-        sequence desire results: 
-        sequence desire gap: 
+          - sequence desire conflict-dn: 主人公の諦め
+            sequence desire conflict-desire: 同じような目に遭っている大勢を助けない選択をしているのにこの少女を助けては筋が通らない
+        sequence desire risk: エルフの少女が犯されて殺される
+        sequence desire results: 助ける
+        sequence desire gap: 思いのほか感情的になっていた
 
     sequence value-change:
-      - sequence value-change dn: 
-        sequence value-change value: 
-        sequence value-change change: .
-        sequence value-change notes: 
+      - sequence value-change dn: 主人公
+        sequence value-change value: 気持ちのまま振る舞えるか
+        sequence value-change change: .----- / .+++
+        sequence value-change notes: 感情に後押しされて気持ちのまま振る舞った
 
     sequence unpredictability-of-the-end:
-      - sequence unpredictability-of-the-end item: 
+      - sequence unpredictability-of-the-end item: エルフの少女はどうなるのか
 
   sequence elements:
 
-- sequence: 魔素器官の治療
+- sequence: ヒロインを回復させる
   sequence gist:
-    - sequence gist item: ヒロインの困惑
-    - sequence gist item: ヒロインの驚き
     - sequence gist item: 
 
   sequence configuration:
@@ -73,8 +108,38 @@
 
   sequence elements:
 
+- sequence: 後処理
+  sequence gist:
+    - sequence gist item: 
 
-- 魔素器官の治療
-  - 主人公の万能さ
-  - ヒロインの驚き
-- ちょっとミスって強化しすぎた　どうなるの！？
+  sequence configuration:
+
+    sequence climax: 綺麗に回復する
+
+    sequence meaning:
+      - sequence meaning item: おわりと引き
+
+    sequence interest:
+      - sequence interest item: 少女の安堵と希望
+
+    sequence desire:
+      - sequence desire dn: work location 
+        sequence desire desire: 
+        sequence desire conflict:
+          - sequence desire conflict-dn: 
+            sequence desire conflict-desire: 
+        sequence desire risk: 
+        sequence desire results: 
+        sequence desire gap: 
+
+    sequence value-change:
+      - sequence value-change dn: 
+        sequence value-change value: 
+        sequence value-change change: .
+        sequence value-change notes: 
+
+    sequence unpredictability-of-the-end:
+      - sequence unpredictability-of-the-end item: 
+
+  sequence elements:
+
