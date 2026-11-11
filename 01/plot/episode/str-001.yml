@@ -1,0 +1,80 @@
+- sequence: ヒロインピンチ
+  sequence gist:
+    - sequence gist item: 事情説明
+    - sequence gist item: ヒロイン救出
+    - sequence gist item: 主人公の強さ
+    - sequence gist item: 
+
+  sequence configuration:
+
+    sequence climax: 
+
+    sequence meaning:
+      - sequence meaning item: 
+
+    sequence interest:
+      - sequence interest item: 
+
+    sequence desire:
+      - sequence desire dn: 
+        sequence desire desire: 
+        sequence desire conflict:
+          - sequence desire conflict-dn: 
+            sequence desire conflict-desire: 
+        sequence desire risk: 
+        sequence desire results: 
+        sequence desire gap: 
+
+    sequence value-change:
+      - sequence value-change dn: 
+        sequence value-change value: 
+        sequence value-change change: .
+        sequence value-change notes: 
+
+    sequence unpredictability-of-the-end:
+      - sequence unpredictability-of-the-end item: 
+
+  sequence elements:
+
+- sequence: 魔素器官の治療
+  sequence gist:
+    - sequence gist item: ヒロインの困惑
+    - sequence gist item: ヒロインの驚き
+    - sequence gist item: 
+
+  sequence configuration:
+
+    sequence climax: 
+
+    sequence meaning:
+      - sequence meaning item: 
+
+    sequence interest:
+      - sequence interest item: 
+
+    sequence desire:
+      - sequence desire dn: 
+        sequence desire desire: 
+        sequence desire conflict:
+          - sequence desire conflict-dn: 
+            sequence desire conflict-desire: 
+        sequence desire risk: 
+        sequence desire results: 
+        sequence desire gap: 
+
+    sequence value-change:
+      - sequence value-change dn: 
+        sequence value-change value: 
+        sequence value-change change: .
+        sequence value-change notes: 
+
+    sequence unpredictability-of-the-end:
+      - sequence unpredictability-of-the-end item: 
+
+  sequence elements:
+
+
+- 魔素器官の治療
+  - 主人公の万能さ
+  - ヒロインの驚き
+- ちょっとミスって強化しすぎた　どうなるの！？
