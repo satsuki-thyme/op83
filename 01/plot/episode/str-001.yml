@@ -37,6 +37,27 @@
 
   sequence elements:
 
+    - scene: 足音が聞こえる
+      scene emotion: 
+      scene elements:
+
+        - beat group: 
+        - beat group: 
+
+    - scene: 目視確認、状況把握
+      scene emotion: 
+      scene elements:
+
+        - beat group: 
+        - beat group: 
+
+    - scene: 葛藤
+      scene emotion: 
+      scene elements:
+
+        - beat group: 
+        - beat group: 
+
 - sequence: ヒロインピンチ
   sequence gist:
     - sequence gist item: エルフの少女は手足を折られる
@@ -73,73 +94,160 @@
 
   sequence elements:
 
-- sequence: ヒロインを回復させる
+    - scene: エルフの少女が転倒させられる
+      scene emotion: 
+      scene elements:
+
+        - beat group: 
+        - beat group: 
+
+    - scene: 会話
+      scene emotion: 
+      scene elements:
+
+        - beat group: 
+        - beat group: 
+
+    - scene: 果敢に挑む
+      scene emotion: 
+      scene elements:
+
+        - beat group: 
+        - beat group: 
+
+    - scene: 敗北、陵辱
+      scene emotion: 
+      scene elements:
+
+        - beat group: 
+        - beat group: 
+
+- sequence: ヒロイン救出
   sequence gist:
+    - sequence gist item: 
     - sequence gist item: 
 
   sequence configuration:
 
-    sequence climax: 
+    sequence climax: 頭目の男を殺してしまうところ
 
     sequence meaning:
-      - sequence meaning item: 
+      - sequence meaning item: 勝利
 
     sequence interest:
-      - sequence interest item: 
+      - sequence interest item: 圧倒
 
     sequence desire:
-      - sequence desire dn: 
-        sequence desire desire: 
+      - sequence desire dn: 主人公
+        sequence desire desire: 殺さず制圧したい
         sequence desire conflict:
-          - sequence desire conflict-dn: 
-            sequence desire conflict-desire: 
-        sequence desire risk: 
-        sequence desire results: 
-        sequence desire gap: 
+          - sequence desire conflict-dn: 感情的な主人公
+            sequence desire conflict-desire: 殺したい
+        sequence desire risk: 殺してしまう
+        sequence desire results: 殺してしまう
+        sequence desire gap: 殺してしまった
+
+      - sequence desire dn: 移入感情
+        sequence desire desire: エルフの少女が助かってほしい
+        sequence desire conflict:
+          - sequence desire conflict-dn: none
+            sequence desire conflict-desire: none
+        sequence desire risk: none
+        sequence desire results: 助かった
+        sequence desire gap: none
 
     sequence value-change:
-      - sequence value-change dn: 
-        sequence value-change value: 
-        sequence value-change change: .
-        sequence value-change notes: 
+      - sequence value-change dn: 主人公
+        sequence value-change value: 殺さず制圧できるか
+        sequence value-change change: . \ .-----
+        sequence value-change notes: 殺してしまった
+
+      - sequence value-change dn: 移入感情
+        sequence value-change value: エルフの少女は助かるか
+        sequence value-change change: . \ .+++++
+        sequence value-change notes: 助かった
 
     sequence unpredictability-of-the-end:
-      - sequence unpredictability-of-the-end item: 
+      - sequence unpredictability-of-the-end item: エルフの少女の怪我はどうなるのか
 
   sequence elements:
 
-- sequence: 後処理
+    - scene: work location 
+      scene emotion: 
+      scene elements:
+
+        - beat group: 
+        - beat group: 
+
+- sequence: ヒロインを回復させる
   sequence gist:
+    - sequence gist item: 権能魔法による治療
+
+  sequence configuration:
+
+    sequence climax: きれいに回復する
+
+    sequence meaning:
+      - sequence meaning item: フォローアップ
+
+    sequence interest:
+      - sequence interest item: 聖神は面倒見がいいことなど
+      - sequence interest item: 少女の安堵と希望
+
+    sequence desire:
+      - sequence desire dn: エルフの少女への移入感情
+        sequence desire desire: 助かって
+        sequence desire conflict:
+          - sequence desire conflict-dn: 世間の常識
+            sequence desire conflict-desire: 複雑骨折を治すのは難しい
+        sequence desire risk: 助からない
+        sequence desire results: 助かる
+        sequence desire gap: なし
+
+    sequence value-change:
+      - sequence value-change dn: エルフの少女への移入感情
+        sequence value-change value: エルフの少女は助かるのか
+        sequence value-change change: .--- / .+++++
+        sequence value-change notes: 
+
+    sequence unpredictability-of-the-end:
+      - sequence unpredictability-of-the-end item: エルフの少女はどうするのか
+
+  sequence elements:
+
+- sequence: 誘い
+  sequence gist:
+    - sequence gist item: 
     - sequence gist item: 
 
   sequence configuration:
 
-    sequence climax: 綺麗に回復する
+    sequence climax: 彼らくらいなら簡単に倒せるようになる、つもりなんだけど
 
     sequence meaning:
-      - sequence meaning item: おわりと引き
+      - sequence meaning item: フック
 
     sequence interest:
-      - sequence interest item: 少女の安堵と希望
+      - sequence interest item: 希望
 
     sequence desire:
-      - sequence desire dn: work location 
-        sequence desire desire: 
+      - sequence desire dn: 主人公
+        sequence desire desire: ここまで来たら最後まで面倒を見たい
         sequence desire conflict:
-          - sequence desire conflict-dn: 
-            sequence desire conflict-desire: 
-        sequence desire risk: 
-        sequence desire results: 
-        sequence desire gap: 
+          - sequence desire conflict-dn: エルフの少女
+            sequence desire conflict-desire: 迷い
+        sequence desire risk: 来てくれない
+        sequence desire results: 来てくれる
+        sequence desire gap: なし
 
     sequence value-change:
-      - sequence value-change dn: 
-        sequence value-change value: 
-        sequence value-change change: .
+      - sequence value-change dn: 主人公
+        sequence value-change value: 少女への期待
+        sequence value-change change: . / .+++++
         sequence value-change notes: 
 
     sequence unpredictability-of-the-end:
-      - sequence unpredictability-of-the-end item: 
+      - sequence unpredictability-of-the-end item: エルフの少女は強くなれるのか
 
   sequence elements:
 
