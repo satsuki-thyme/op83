@@ -19,23 +19,23 @@
 
 #### エピソード構造体
 
-- 01/plot/episode/str-001.yml: エピソード構造体 第1話
+- 01/plot/episode/str-001.yaml: エピソード構造体 第1話
 
 #### キャラクター
 
 ##### メイン
 
-- characters/00/character-base.yml: キャラクターの基礎設定
-- characters/00/characters.yml:     キャラクター設定
+- characters/00/character-base.yaml: キャラクターの基礎設定
+- characters/00/characters.yaml:     キャラクター設定
 
 #### 設定
 
-- settings/reference.yml: 参照
+- settings/reference.yaml: 参照
 
 ### 全体計画
 
 - 00/plan/base-idea.md:  ベースアイデア
-- 00/plan/config.yml:    コンフィグ
+- 00/plan/config.yaml:   コンフィグ
 - 00/plan/title-idea.md: タイトルアイデア
 
 ### アイデアノート
