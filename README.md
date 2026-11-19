@@ -40,14 +40,15 @@
 
 ### アイデアノート
 
-- idea-notes/ide-001.md: コンセプト
+- notes/idea-notes/ide-001.md: コンセプト
+- notes/idea-notes/ide-002.md: 第1話に登場する鍵言
 
 ### 思考ノート
 
-- thinking-notes/thi-001.md: コンセプト
-- thinking-notes/thi-002.md: ハガレンの回避
-- thinking-notes/thi-003.md: コンセプト（ボツ）
-- thinking-notes/thi-004.md: 制作手法についてなど
-- thinking-notes/thi-005.md: 企画と作り始め
-- thinking-notes/thi-006.md: コンセプト再考
-- thinking-notes/thi-007.md: 舞台設定
+- notes/thinking-notes/thi-001.md: コンセプト
+- notes/thinking-notes/thi-002.md: ハガレンの回避
+- notes/thinking-notes/thi-003.md: コンセプト（ボツ）
+- notes/thinking-notes/thi-004.md: 制作手法についてなど
+- notes/thinking-notes/thi-005.md: 企画と作り始め
+- notes/thinking-notes/thi-006.md: コンセプト再考
+- notes/thinking-notes/thi-007.md: 舞台設定
