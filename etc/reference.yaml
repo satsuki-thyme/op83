@@ -1,25 +1,32 @@
-- legend: 
+- attributes legend: 
   collE:
     full name: collective entity
-    mean: 集合的実体。集団、団体。国や町、組織、仲間内、など個人の集まり全般。
-  other:
-    full name: others
-    mean: その他の物事。
+    description: |
+      集合的実体。集団、団体。国や町、組織、仲間内、など個人の集まり全般。
   place:
     full name: place
-    mean: 地理的な場所。国や町などの地理的な場所としての側面。
+    description: |
+      地理的な場所。国や町などの地理的な場所としての側面。
   locat:
     full name: location
-    mean: シーンが展開される場所。
+    description: |
+      シーンが展開される場所。
   event:
     full name: event
-    mean: 出来事。
+    description: |
+      出来事。
   subje:
     full name: subject
-    mean: 主体。植物を含む生物、または精神を持った存在。物や物品。物語的に主体として語らせることのできるmonst以外の存在。
+    description: |
+      主体。植物を含む生物、または精神を持った存在。物や物品。物語的に主体として語らせることのできるもののなかでmonst以外の存在。
   monst:
     full name: monster
-    mean: 魔物。物語的にキャラクターとして分類されない敵性の存在。
+    description: |
+      魔物。物語的にキャラクターとして分類されない敵性の存在。
+  other:
+    full name: others
+    description: |
+      その他の物事。
 
 
 
@@ -32,7 +39,34 @@
 
 
 - item: 
-  applicable chapter: 
-  description:
+  attributes:
+    - collE
+    - place
+    - locat
+    - event
+    - subje
+    - monst
+    - other
+  applicable chapter:
+    - 0
+  description: |
     blank
+
+- item: 王都ファリス
+  attributes:
+    - collE
+    - place
+  applicable chapter:
+    - 0
+  description: |
+    主人公が店を構える都市。
+
+- item: オルテア王国
+  attributes:
+    - collE
+    - place
+  applicable chapter:
+    - 0
+  description: |
+    主人公が店を構える王都ファリスがある国。
 
