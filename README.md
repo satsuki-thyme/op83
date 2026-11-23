@@ -30,7 +30,7 @@
 
 #### 設定
 
-- settings/reference.yaml: 参照
+- etc/reference.yaml: 参照
 
 ### 全体計画
 
