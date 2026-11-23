@@ -84,7 +84,7 @@
           scene emotion: 緊急事態！　ワクワク！
           scene elements:
 
-            - beat group: 足音　石造建築の王都 王都ntt
+            - beat group: 足音　石造建築の王都ファリス
             - beat group: 二足歩行でゴブリンでもオーガでもない　人族だ
 
         - scene: 目視確認、状況把握
@@ -148,7 +148,7 @@
 
             - beat group: 転倒
             - beat group: 起き上がって剣を抜く
-            - beat group: 敵も剣を抜いて魔法をスタンバイ 魔法ntt
+            - beat group: 敵も剣を抜いて魔法をスタンバイ「〈風よ〉」
 
         - scene: 会話
           scene emotion: 緊張の少女と優越の敵
@@ -300,7 +300,7 @@
           scene elements:
 
             - beat group: 原始魔法を使おうとするが思い留まる
-            - beat group: 権能魔法を使う 権能魔法ntt
+            - beat group: 権能魔法を使う 聖神の軌跡
 
         - scene: 回復
           scene emotion: 優越
