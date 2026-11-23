@@ -4,14 +4,13 @@
 
 - 普通を描いてから主人公の凄さを見せつける
 
-## handover
-
-- date: 2026-11-17
-- エピソード構造体 第1話 ;str-001.yml; 鍵言 => ;etc/thinking-notes/thi-002.md;
-
 ## task
 
-- [n] エピソード構造体 第1話 ;str-001.yml; 
+date: 2026-11-17
+
+- [x] 鍵言の決定 ;story-world/world1/magic.yaml; 
+- [x] 魔法をどうするか ;etc/thinking-notes/thi-002.md;
+- [n] エピソード構造体 第1話 ;str-001.yaml; 
 - [x] エピソード構築 第1話 ;bui-001.md;
 - [x] 舞台設定 ;thi-007.md; 
 - [x] コンセプトの検分 ;thi-006.md; 
